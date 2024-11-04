@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML,CSS and Javascript
 - 💞️ I’m looking to collaborate with industry experts on hands-on web development projects 
 - 📫 How to reach me through Whatsapp only...+2348087087341 
-- 😄 Pronouns:
 - ⚡ Fun fact: 75% of web developers prefer dark mode
 
 <!---
